@@ -1,0 +1,18 @@
+Another Node Tracker
+-------------------------
+Description:
+* Single-process http bittorrent tracker
+* In-memory "database"
+
+Depends:
+* optimist
+* nodejs
+
+Usage:
+node antracker.js --port=1337 --ip="127.0.0.1" --interval=180
+
+Author:
+Markus Näsman
+
+License:
+See COPYING
